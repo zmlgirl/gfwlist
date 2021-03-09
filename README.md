@@ -1,18 +1,3 @@
-<a href="http://info.flagcounter.com/T2RV"><img src="http://s09.flagcounter.com/count2/T2RV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_GFWList/labels_1/pageviews_1/flags_0/percent_0/" border="0"></a>
-
-|[Annoucements & Discussions][chat-room]|
-|:---:|
-| [![chat-metadata]][chat-room]|
-
-[chat-metadata]: https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square "Join the chat"
-[chat-room]: https://gitter.im/gfwlist/gfwlist?utm_source=share-link&utm_medium=link&utm_campaign=share-link "GFWList@Gitter"
-
-:tulip:***For the tiny version of GFWList, please visit [tinylist project homepage](https://github.com/gfwlist/tinylist).***
-******
-
-:hammer:***For source code stemmed from premier GFWList which is now being used for maintenance, please visit [apollyon project](https://github.com/gfwlist/apollyon).***
-******
-
 # gfwlist
 ## The OFFICIAL gfwlist here!
 
